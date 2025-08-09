@@ -65,7 +65,8 @@ ideal_model = RandomForestRegressor(n_estimators = 90,
 
 * Briefly explain which features were most predictive (e.g., "Year of manufacture, machine hours, and product size were the top three predictors").
 * Possibly include a small bar chart.
-!(Feature Importance)[/feature_importance.png]
+  
+![Feature Importance](/feature_importance.png)
 ---
 
 ## **6. Conclusion & Next Steps**
